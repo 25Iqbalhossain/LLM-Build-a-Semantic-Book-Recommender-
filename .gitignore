@@ -1,1 +1,5 @@
 .env
+db_books/
+*.bin
+*.pickle
+*.sqlite3
